@@ -3,16 +3,15 @@
 A Python project for processing and analyzing call recordings.
 
 ## Project Structure
-├── app.py # Main application entry point
-├── try.py # Script for testing or experimentation
-├── utils.py # Utility functions used in the project
-├── requirements.txt # Python dependencies
-├── Call Recording 1.mp3 # Example audio file
-├── Call Recording 2.mp3 # Example audio file
-├── .idea/ # IDE configuration files
-├── pycache/ # Python bytecode cache
-├── .venv/ # Python virtual environment
-
+``` bash
+├── app.py                 # Main application entry point
+├── try.py                 # Script for testing or experimentation
+├── utils.py               # Utility functions used in the project
+├── requirements.txt       # Python dependencies
+├── Call Recording 1.mp3   # Example audio file
+├── Call Recording 2.mp3   # Example audio file
+├── .venv/                 # Python virtual environment
+```
 
 ## Setup
 
